@@ -1,0 +1,9 @@
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\bin\Debug\Cores.exe
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\bin\Debug\Cores.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.Form1.resources
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.exe
+C:\Users\cyber\OneDrive\Documentos\C#\Cores\Cores\obj\Debug\Cores.pdb

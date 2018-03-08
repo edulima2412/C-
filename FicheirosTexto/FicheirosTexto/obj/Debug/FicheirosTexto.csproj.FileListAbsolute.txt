@@ -1,0 +1,9 @@
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.exe
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\bin\Debug\FicheirosTexto.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.Form1.resources
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.exe
+C:\Users\cyber\OneDrive\Documentos\C#\FicheirosTexto\FicheirosTexto\obj\Debug\FicheirosTexto.pdb

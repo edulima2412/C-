@@ -1,0 +1,11 @@
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\bin\Debug\formularios.exe
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\bin\Debug\formularios.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.frmMenu.resources
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.frmUm.resources
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.exe
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\formularios\formularios\obj\Debug\formularios.frmDois.resources

@@ -1,0 +1,9 @@
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\bin\Debug\PastaFicheiro.exe
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\bin\Debug\PastaFicheiro.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.Form1.resources
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.exe
+C:\Users\cyber\OneDrive\Documentos\C#\PastaFicheiro\PastaFicheiro\obj\Debug\PastaFicheiro.pdb

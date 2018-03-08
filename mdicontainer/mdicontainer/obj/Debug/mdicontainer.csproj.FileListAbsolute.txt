@@ -1,0 +1,10 @@
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\bin\Debug\mdicontainer.exe
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\bin\Debug\mdicontainer.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.frmMain.resources
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.exe
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\mdicontainer\mdicontainer\obj\Debug\mdicontainer.frmUm.resources

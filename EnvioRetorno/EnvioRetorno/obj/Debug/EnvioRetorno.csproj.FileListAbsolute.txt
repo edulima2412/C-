@@ -1,0 +1,10 @@
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.exe
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\bin\Debug\EnvioRetorno.pdb
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csprojResolveAssemblyReference.cache
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.frm1.resources
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.frm2.resources
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.Properties.Resources.resources
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.GenerateResource.Cache
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.csproj.CoreCompileInputs.cache
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.exe
+C:\Users\cyber\OneDrive\Documentos\C#\EnvioRetorno\EnvioRetorno\obj\Debug\EnvioRetorno.pdb
