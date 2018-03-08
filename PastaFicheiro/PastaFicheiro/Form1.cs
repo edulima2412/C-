@@ -18,6 +18,9 @@ namespace PastaFicheiro
         public Form1()
         {
             InitializeComponent();
+
+            //Localiza a pasta e o ficheiro em Meus Documentos
+            //pasta_config = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         }
 
         private void button1_Click(object sender, EventArgs e)
